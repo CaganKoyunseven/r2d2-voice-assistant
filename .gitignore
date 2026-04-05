@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+logs/*.log
+sounds/*.wav
+build/
+dist/
+*.spec
+.pytest_cache/
